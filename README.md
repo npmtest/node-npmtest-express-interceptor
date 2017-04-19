@@ -1,4 +1,7 @@
-# test coverage for  [express-interceptor (v1.2.0)](https://github.com/axiomzen/express-interceptor#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-interceptor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-interceptor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-interceptor.svg)](https://travis-ci.org/npmtest/node-npmtest-express-interceptor)
+# npmtest-express-interceptor
+
+#### basic test coverage for  [express-interceptor (v1.2.0)](https://github.com/axiomzen/express-interceptor#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-interceptor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-interceptor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-interceptor.svg)](https://travis-ci.org/npmtest/node-npmtest-express-interceptor)
+
 #### A tiny interceptor for Express responses
 
 [![NPM](https://nodei.co/npm/express-interceptor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-interceptor)
